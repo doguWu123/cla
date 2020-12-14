@@ -7,7 +7,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
         home: Scaffold(
-            backgroundColor: Colors.black,
+            backgroundColor: Colors.white,
             body: Center(
                 child: Column(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
@@ -17,10 +17,14 @@ class MyApp extends StatelessWidget {
                   width: 300.0,
                   color: Colors.transparent,
                   child: Container(
+                      decoration: BoxDecoration(
+                          color: Colors.teal,
+                          borderRadius:
+                              BorderRadius.all(Radius.circular(10.0))),
                       child: new Center(
                         child: new Text(
                           "Salut c'est français",
-                          style: TextStyle(color: Colors.teal, fontSize: 22),
+                          style: TextStyle(color: Colors.white, fontSize: 22),
                           textAlign: TextAlign.right,
                         ),
                       )),
