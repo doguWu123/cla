@@ -6,7 +6,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
+        debugShowCheckedModeBanner: false,
         home: Scaffold(
             backgroundColor: Colors.white,
             body: Center(
@@ -18,30 +18,30 @@ class MyApp extends StatelessWidget {
                   width: 550.0,
                   color: Colors.transparent,
                   child: Container(
-                      decoration: BoxDecoration(
-                          color: Colors.teal,
-                          borderRadius:
-                              BorderRadius.all(Radius.circular(10.0))),),
+                    decoration: BoxDecoration(
+                        color: Colors.teal,
+                        borderRadius: BorderRadius.all(Radius.circular(10.0))),
+                  ),
                 ),
                 Container(
                   height: 35.0,
                   width: 550.0,
                   color: Colors.transparent,
                   child: Container(
-                      decoration: BoxDecoration(
-                          color: Colors.teal,
-                          borderRadius:
-                              BorderRadius.all(Radius.circular(10.0))),),
+                    decoration: BoxDecoration(
+                        color: Colors.teal,
+                        borderRadius: BorderRadius.all(Radius.circular(10.0))),
+                  ),
                 ),
                 Container(
                   height: 300.0,
                   width: 300.0,
                   color: Colors.transparent,
                   child: Container(
-                      decoration: BoxDecoration(
-                          color: Colors.teal,
-                          borderRadius:
-                              BorderRadius.all(Radius.circular(10.0))),),
+                    decoration: BoxDecoration(
+                        color: Colors.teal,
+                        borderRadius: BorderRadius.all(Radius.circular(10.0))),
+                  ),
                 ),
               ],
             ))));
