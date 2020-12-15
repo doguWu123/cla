@@ -24,8 +24,18 @@ class MyApp extends StatelessWidget {
                               BorderRadius.all(Radius.circular(10.0))),),
                 ),
                 Container(
-                  height: 50.0,
-                  width: 500.0,
+                  height: 35.0,
+                  width: 550.0,
+                  color: Colors.transparent,
+                  child: Container(
+                      decoration: BoxDecoration(
+                          color: Colors.teal,
+                          borderRadius:
+                              BorderRadius.all(Radius.circular(10.0))),),
+                ),
+                Container(
+                  height: 300.0,
+                  width: 300.0,
                   color: Colors.transparent,
                   child: Container(
                       decoration: BoxDecoration(
