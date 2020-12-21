@@ -1,26 +1,21 @@
 # sick-squares
 
-### Content loading animation
-
-* Built using Flutter
-* Super amazing piece of awesomeness
+### sick-squares is a content loading animation
 
 ![Flutter](https://img.shields.io/badge/Framework-Flutter-3cc6fd?logo=flutter)
 ![Dart](https://img.shields.io/badge/Language-Dart-0c458b?logo=dart)
 
-## New Features
-* adding animation
 
-### Screenshots 🍳
+<!-- This is formatted strangely but automatically by Prettier. -->
 
-![image](https://user-images.githubusercontent.com/75965411/102183773-61384a80-3ed4-11eb-955d-0f018a422d1c.png)
+| FAQS                                                     | Where to go                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Where&nbsp;do&nbsp;I&nbsp;get&nbsp;the&nbsp;app?         | This repository is still in progress, once it is steady, the apk will be shared!                                                                                                                                                                                                                                                                                                                                                                            |
+| How can I help out?                                      | Submit a pull request [here](https://github.com/WorldHealthOrganization/app/issues/new/choose). |
+| There's a problem with the app - help!                   | Create a issue [here](https://github.com/debugger333/sick-squares/issues/new) to improve the app.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| I have an idea for the app!                              | Write your feature request [here](https://github.com/debugger333/sick-squares/issues/new).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Packages used                            |  [jiggle](https://pub.dev/packages/jiggle) - A Flutter Package that allows you to Jiggle your Widgets..                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Demo! | [link](link).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Like it!                             | Star it!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
-## Packages
 
-* [jiggle - A Flutter Package that allows you to Jiggle your Widgets.](https://github.com/WorldHealthOrganization/app/issues/new/choose)
-
-### Wanna Contribute?
-        👇
-### 👌, Submit a pull request 🎉
-
-### Like it 👍 Star it 🌟
